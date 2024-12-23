@@ -17,8 +17,8 @@ To develop a Recurrent Neural Network model for stock price prediction.
 
 
 ## PROGRAM:
-### Name: RITHIGA SRI.B
-### Register Number: 212221230083
+### Name: Baradhan.L
+### Register Number: 212224040045
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
